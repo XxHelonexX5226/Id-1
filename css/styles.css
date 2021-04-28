@@ -1,0 +1,15 @@
+*{
+box-sizing: border-box;}
+
+html{
+scroll-behavior: smooth; }
+
+body{
+margin: 0;
+padding: 0;
+line-height: 1.5;}
+
+.box{
+border-radius: 50px;
+border: 25px solid orange;
+min-height: 100vh;}
